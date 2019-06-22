@@ -1,3 +1,48 @@
-h1 {
-    color: red;
+#main {
+    background: linear-gradient(90deg, rgba(173, 173, 173, 0.747), rgba(155, 154, 154, 0.822), rgb(112, 110, 110));
+    color: black;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 100;
+}
+
+h1, h4, #footer  {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+h4  {
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-transform: none;
+}
+
+#footer {
+    font-size: 20px;
+    text-transform: none;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    border-radius: 5%;
+}
+
+ul {
+   size: 50%;
+   margin-left: 25%;
+   margin-right: 25%; 
+   text-align: justify;
+}
+
+.red {
+    color: rgba(190, 15, 15, 0.781);
+}
+
+a {
+    color: black;
 }
