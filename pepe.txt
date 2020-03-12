@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 malob  vc
 ffffff
+=======
+malo
+
+hhhh
+>>>>>>> dfaa3a2b2f25a9bc7cdf53418f868b4800809e28
